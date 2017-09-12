@@ -1,0 +1,4 @@
+http://aysad.pe.hu/doku/doku.php?id=centos_httpd_ssl_confluence_smart_install&s[]=centos
+
+http://aysad.pe.hu/doku/doku.php?id=centos_confluence_install
+
